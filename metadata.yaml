@@ -1,0 +1,27 @@
+_repo: Pauvre-et-douce-Coree_74905
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ducrocq, Georges
+    gutenberg_agent_id: '57716'
+    url: http://www.gutenberg.org/2009/agents/57716
+description: ''
+gutenberg_issued: '2024-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74905'
+language: fr
+pgterms:marc904: https://polona.pl/preview/c9c0d2c1-998a-470d-8cf6-a8b246c3ae5a
+pgterms:marc905: 20241116051945ducrocq
+pgterms:marc906: '1904'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Polona digital library)
+publication_note: '  $aParis :$bH. Champion, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pauvre et douce Corée
+url: http://www.gutenberg.org/ebooks/74905

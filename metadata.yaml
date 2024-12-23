@@ -1,11 +1,16 @@
 _repo: Pauvre-et-douce-Coree_74905
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74905-h/images/cover.jpg
 creator:
   author:
     agent_name: Ducrocq, Georges
     gutenberg_agent_id: '57716'
     url: http://www.gutenberg.org/2009/agents/57716
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74905#Pauvre-et-douce-Coree
 gutenberg_issued: '2024-12-15'
 gutenberg_type: Text
 identifiers:
